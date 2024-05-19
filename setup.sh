@@ -19,6 +19,5 @@ nvm install --lts
 nvm use --lts
 npm install -g express mongoose dotenv apollo-server-express
 sudo apt install libu2f-udev -y
-sudo dpkg -i ./*.deb
 sudo mv ./font/*.ttf /usr/share/fonts
 reboot
